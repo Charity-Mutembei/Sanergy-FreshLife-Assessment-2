@@ -6,7 +6,7 @@ import sys
 #takes in an integer 'n'
 #then gives the factorial of 'n'
 
-# return (n * factorial(n - 1))
+# return (n * factorial(n - 1)) - using for loops 
 #the function main(), then handles the interaction with the user of the command line
 # #prompt the user to give an input as a positive integer
 # #if they give a non-positive, raise the 'not successful' exit message
